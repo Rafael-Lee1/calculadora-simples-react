@@ -1,0 +1,37 @@
+{
+  "name": "calculadora-simples-react",
+  "version": "1.0.0",
+  "description": "Este aplicativo é uma calculadora simples que permite aos usuários realizar cálculos matemáticos básicos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafael-Lee1/calculadora-simples-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafael-Lee1/calculadora-simples-react/issues"
+  },
+  "homepage": "http://localhost:3000",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
